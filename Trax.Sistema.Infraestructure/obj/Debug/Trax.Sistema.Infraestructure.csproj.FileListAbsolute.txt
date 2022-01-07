@@ -1,0 +1,9 @@
+C:\Users\ivan.tapia\source\repos\SistemaWebTrax\Trax.Sistema.Infraestructure\bin\Debug\Trax.Sistema.Infraestructure.dll
+C:\Users\ivan.tapia\source\repos\SistemaWebTrax\Trax.Sistema.Infraestructure\bin\Debug\Trax.Sistema.Infraestructure.pdb
+C:\Users\ivan.tapia\source\repos\SistemaWebTrax\Trax.Sistema.Infraestructure\bin\Debug\TRAX.Framework.Negocio.Web.Api.dll
+C:\Users\ivan.tapia\source\repos\SistemaWebTrax\Trax.Sistema.Infraestructure\bin\Debug\TRAX.Models.Web.Api.dll
+C:\Users\ivan.tapia\source\repos\SistemaWebTrax\Trax.Sistema.Infraestructure\obj\Debug\Trax.Sistema.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\ivan.tapia\source\repos\SistemaWebTrax\Trax.Sistema.Infraestructure\obj\Debug\Trax.Sistema.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\ivan.tapia\source\repos\SistemaWebTrax\Trax.Sistema.Infraestructure\obj\Debug\Trax.Sistema.Infraestructure.csproj.CopyComplete
+C:\Users\ivan.tapia\source\repos\SistemaWebTrax\Trax.Sistema.Infraestructure\obj\Debug\Trax.Sistema.Infraestructure.dll
+C:\Users\ivan.tapia\source\repos\SistemaWebTrax\Trax.Sistema.Infraestructure\obj\Debug\Trax.Sistema.Infraestructure.pdb

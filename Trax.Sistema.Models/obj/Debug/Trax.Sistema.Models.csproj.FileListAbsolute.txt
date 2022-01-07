@@ -1,0 +1,6 @@
+C:\Users\ivan.tapia\source\repos\SistemaWebTrax\Trax.Sistema.Models\bin\Debug\Trax.Sistema.Models.dll
+C:\Users\ivan.tapia\source\repos\SistemaWebTrax\Trax.Sistema.Models\bin\Debug\Trax.Sistema.Models.pdb
+C:\Users\ivan.tapia\source\repos\SistemaWebTrax\Trax.Sistema.Models\obj\Debug\Trax.Sistema.Models.csproj.AssemblyReference.cache
+C:\Users\ivan.tapia\source\repos\SistemaWebTrax\Trax.Sistema.Models\obj\Debug\Trax.Sistema.Models.csproj.CoreCompileInputs.cache
+C:\Users\ivan.tapia\source\repos\SistemaWebTrax\Trax.Sistema.Models\obj\Debug\Trax.Sistema.Models.dll
+C:\Users\ivan.tapia\source\repos\SistemaWebTrax\Trax.Sistema.Models\obj\Debug\Trax.Sistema.Models.pdb
